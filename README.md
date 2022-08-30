@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-E-K-0&show_icons=true&theme=github_dark&count_private=true)](https://github.com/N-E-K-0)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==N-E-K-0&layout=compact)](https://github.com/N-E-K-0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N-E-K-0&layout=compact)](https://github.com/N-E-K-0/github-readme-stats)
 
 
 
