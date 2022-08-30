@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋 I'm Samiul
+### Hi there 👋 I'm Samiul.
 
 - 🔭 I’m currently working on a Business CRM
 - 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on any web app uses web3.0 
-- 📫 How to reach me: [Email](isamiul120@gmail.com)[Linkedin](https://www.linkedin.com/in/mohammed-samiul-islam-47a2b0a1/)
+- 📫 How to reach me: [Email](isamiul120@gmail.com) [Linkedin](https://www.linkedin.com/in/mohammed-samiul-islam-47a2b0a1/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-E-K-0&count_private=true)(https://github.com/N-E-K-0)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-E-K-0&show_icons=true&theme=radical&count_private=true)](https://github.com/N-E-K-0)
 
 
