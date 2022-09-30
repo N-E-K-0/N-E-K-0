@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N-E-K-0&layout=compact&theme=dark&width=500)](https://github.com/N-E-K-0/github-readme-stats)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Mohammed_Samiul_Islam?theme=dark&ext=activity&animation=true&width=500&height=250&border=0&radius=20)](https://leetcode.com/isamiul120/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Mohammed_Samiul_Islam?theme=dark&ext=activity&animation=true&width=500&height=250&border=0&radius=20)](https://leetcode.com/Mohammed_Samiul_Islam/)
