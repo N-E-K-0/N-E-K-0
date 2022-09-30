@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-E-K-0&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide=stars,contribs)](https://github.com/N-E-K-0)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N-E-K-0&layout=compact)](https://github.com/N-E-K-0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N-E-K-0&layout=compact&theme=dark)](https://github.com/N-E-K-0/github-readme-stats)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/isamiul120?theme=dark&ext=heatmap&animation=true&width=500&height=250&border=0&radius=20)](https://leetcode.com/isamiul120/)
