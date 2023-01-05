@@ -28,4 +28,3 @@ Here are some ideas to get you started:
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Mohammed_Samiul_Islam?theme=dark&ext=activity&animation=true&width=500&height=250&border=0&radius=20)](https://leetcode.com/Mohammed_Samiul_Islam/)
 
-[![Github](https://raw.githubusercontent.com/N-E-K-0/N-E-K-0/output/github-contribution-grid-snake.svg)](https://github.com/N-E-K-0)
