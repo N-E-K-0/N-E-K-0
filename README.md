@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Samiul.
 
-- 🔭 I’m currently working on Advanced JavaScript
-- 🌱 I’m currently learning NodeJs
+- 🔭 I’m currently working on JavaScript | ReactJs
+- 🌱 I’m currently learning NextJs
 - 👯 I’m looking for remote opportunities in Full Stack Positions
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohammed-samiul-islam-47a2b0a1/)
 
