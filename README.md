@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Samiul.
 
-- 🔭 I’m currently working on JavaScript | ReactJs
+- 🔭 I’m currently working on JavaScript | TypeScript | ReactJs
 - 🌱 I’m currently learning NextJs
-- 👯 I’m looking for remote opportunities in Full Stack Positions
+- 👯 I’m looking for remote opportunities in Front-end / Full Stack Positions
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohammed-samiul-islam-47a2b0a1/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-E-K-0&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide=stars,contribs)](https://github.com/N-E-K-0)
